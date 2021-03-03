@@ -1,0 +1,17 @@
+{
+  "name": "next-cookie-auth",
+  "version": "1.0.0",
+  "description": "Building My Portfolio",
+  "main": "server.js",
+  "repository": "https://github.com/Eftychiou/next-cookie-auth.git",
+  "author": "George Eftychiou",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "scripts": {
+    "dev": "next "
+  }
+}
